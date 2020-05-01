@@ -11,7 +11,7 @@
 ------------------
 ## HikersWatch application location (APK file)
 - https://github.com/godbolesumant/WhatsTheWeather/blob/master/app/release/app-release.apk
-NOTE: The altidude is 0 in all the screenshots because the screenshots were taken from emulator. But I have checked it on real device and it works perfectly fine.
+- NOTE: The altidude is 0 in all the screenshots because the screenshots were taken from emulator. But I have checked it on real device and it works perfectly fine.
 
 ## Description
 Application will display the Latitude, Longitude, Altitude, Accuracy and Address of the device.
